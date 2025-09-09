@@ -31,14 +31,6 @@ It’s a **beautiful, distraction-free space** to capture your thoughts, reminde
 
 ---
 
-## 🖼️ Preview
-
-<p align="center">
-  <img src="https://dummyimage.com/800x400/111827/ffffff&text=Keeper+App+Preview" alt="Keeper Preview" width="85%"/>
-</p>
-
----
-
 ## 🛠 Tech Stack
 
 - **Frontend:** React · Vite · TailwindCSS  
